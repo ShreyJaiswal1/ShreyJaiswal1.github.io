@@ -4,7 +4,7 @@
 {
 "Hobby": "Coding",
 "Age": 16,
-"Relationship": "Mingle ;)",
+"Relationship": "Single ;)",
 "Achievement": "Verified discord bot developer",
 "Resident": "India 🇮🇳"
 }
